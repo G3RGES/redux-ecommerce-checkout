@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <h1 className="text-xl">Redux E-Commerce Checkout</h1>
+      <h1 className="text-3xl font-semibold text-center mt-2 py-3">
+        Redux E-Commerce Checkout
+      </h1>
     </>
   );
 }
